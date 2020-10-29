@@ -13,7 +13,11 @@ D <- 40
 E <- 50
 H <- 'I!'
 J <- 2L
-  
+M <- 4.75
+N <- 4.75 + 7i
+O1 <- FALSE
+P2 <- TRUE
+    
     ### Cumprindo operações básicas (soma, subtração, multiplicação e divisão)
 A + B
 C - A
@@ -43,5 +47,10 @@ typeof (G)
     ### Coloquei a variável G propositalmente para testar a não atribuição da variável.
 typeof (H)
 typeof (J)
+typeof (M)
+typeof (N)
+typeof (O1)
+typeof (P2)
 
   ## Post your results in a public post on Google Classroom (LP192).
+    ### Done!
